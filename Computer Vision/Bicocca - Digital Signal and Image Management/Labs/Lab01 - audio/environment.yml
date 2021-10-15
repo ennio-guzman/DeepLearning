@@ -2,6 +2,6 @@ name: Lab01-audio
 channels:
   - conda-forge
 dependecies:
- - matplotlib==3.2.2
- - scipy==1.4.1
- - numpy==1.19.5
+ - matplotlib =3.2.2
+ - scipy =1.4.1
+ - numpy =1.19.5
